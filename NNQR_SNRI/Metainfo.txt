@@ -1,0 +1,13 @@
+Name of QuantLet : NNQR_SNRI
+
+Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression'
+
+Description : 'Plot of the systemic network risk index and its cubic spline interpolation.'
+
+Keywords : Systemic risk, quantile regression, neural networks
+
+See also : 'NNQR_CoVaR, NNQR_Heat, NNQR_Network'
+
+Author : Georg Keilbar
+
+Submitted : October 8 2018 by Georg Keilbar

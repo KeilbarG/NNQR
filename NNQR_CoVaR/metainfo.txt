@@ -1,0 +1,13 @@
+Name of QuantLet : NNQR_CoVaR
+
+Published in : 'Modelling Systemic Risk using Neural Network Quantile Regression'
+
+Description : 'Plots the returns, the VaR and the CoVaR of eight global systemically important banks from the US.'
+
+Keywords : Quantile Regression, VaR, CoVaR, systemic risk
+
+See also : 'NNQR_Heat, NNQR_Network, NNQR_SNRI'
+
+Author : Georg Keilbar
+
+Submitted : September 8 2018 by Georg Keilbar
