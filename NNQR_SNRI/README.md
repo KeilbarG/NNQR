@@ -1,1 +1,0 @@
-# NNQR_SRNI
